@@ -1,0 +1,57 @@
+.icon-box.goals i {
+    color: rgb(134, 26, 26) !important;
+}
+
+.icon-box.plays i {
+    color: rgb(43, 55, 137) !important;
+}
+
+.icon-box.triggers i {
+    color: rgb(43, 55, 137) !important;
+}
+
+.icon-box.blueprints i {
+    color: rgb(57, 137, 203) !important;
+}
+
+.icon-box.logic i {
+    color: rgb(40, 123, 73) !important;
+}
+
+
+/* div, p {
+    color: #e7e7e7;
+}
+
+body {
+    background-color: #212121 !important;
+}
+
+.purecounter,
+.section-title p,
+.counts .content h3 {
+    color: #aaaaaa !important;
+} */
+
+section.features i.bx {
+    background-size: contain;
+    width: 48px;
+    height: 48px;
+    font-size: 0px !important;
+}
+
+section.features i.bx.top {
+    background-image: url(../img/ranked-positions/Position_Diamond-Top.png);
+}
+
+section.features i.bx.jg {
+    background-image: url(../img/ranked-positions/Position_Diamond-Jungle.png);
+}
+
+section.features i.bx.mid {
+    background-image: url(../img/ranked-positions/Position_Diamond-Mid.png);
+}
+
+section.features i.bx.bot {
+    background-image: url(../img/ranked-positions/Position_Diamond-Bot.png);
+}
